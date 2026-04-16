@@ -2,7 +2,7 @@
 
 An ESP32-based home automation controller that reads temperature, humidity, light level, and motion, runs local automation rules, and publishes telemetry to an MQTT broker. Relay outputs control real AC loads. Compatible with **Home Assistant** and **Node-RED**.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Smart-Home-Automation/blob/main/circuit_diagram.png)
 
 ## Features
 
